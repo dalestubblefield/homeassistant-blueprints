@@ -1,0 +1,6 @@
+blueprint:
+  name: Example blueprint
+  description: Example showing an input
+  input:
+    my_input:
+      name: Example input
